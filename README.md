@@ -53,6 +53,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-For any inquiries or feedback, please contact [ankuraj2708@gmail.com].
+For any inquiries or feedback, please contact [mukulkumar5515@gmail.com].
 
 Happy coding!
